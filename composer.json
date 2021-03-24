@@ -14,7 +14,7 @@
         "map": [
             [
                 "*",
-                "Ozark/Magento2-DisableMoblieMiniCart"
+                "ozark/magento2-disablemoblieminicart"
             ]
         ]
     }
