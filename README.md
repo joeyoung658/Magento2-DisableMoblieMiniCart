@@ -1,10 +1,10 @@
 # Magento2-DisableMoblieMiniCart
 
-##Description
+## Description
 
 Redirects clients on mobile to /checkout/cart page rather than showing the mini cart menu.
 
-##Install
+## Install
 
 ```bash
 composer config repositories.magento2-disablemoblieminicart git https://github.com/joeyoung658/Magento2-DisableMoblieMiniCart.git
